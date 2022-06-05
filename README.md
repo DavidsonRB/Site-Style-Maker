@@ -1,4 +1,6 @@
 # Site-Style-Maker
 
-Site de designer, responsivo feito com html e css. 
-### https://davidsonrb.github.io/Site-Style-Maker/
+Site de designer fictício, responsivo feito com HTML e CSS.
+
+### [Stye Maker](https://davidsonrb.github.io/Site-Style-Maker/)
+
